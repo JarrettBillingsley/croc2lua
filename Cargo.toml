@@ -1,0 +1,10 @@
+[package]
+name = "croc2lua"
+version = "0.1.0"
+authors = ["Jarrett Billingsley <jarrett.billingsley@gmail.com>"]
+
+[dependencies]
+
+obstack = "0.1.3"
+lazy_static = "1.0.0"
+nom = "^3.2"
